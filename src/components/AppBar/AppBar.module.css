@@ -1,0 +1,19 @@
+:root {
+  --first-color: #656fff;
+  --second-color: #f2ff7b;
+  --third-color: #dcdde2;
+  --fourth-color: #fcfcfc;
+  --fifth-color: #636250;
+  --text-color: #292923;
+}
+
+* {
+  color: var(--text-color);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  width: auto;
+  min-height: 80px;
+}

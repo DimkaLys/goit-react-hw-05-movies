@@ -1,0 +1,26 @@
+.list {
+  width: auto;
+  grid-gap: 16px;
+  justify-items: center;
+  padding: 0;
+  list-style: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 16px;
+}
+
+h4 {
+  margin: 0 0 4px 0;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.text {
+  margin-bottom: 8px;
+}
